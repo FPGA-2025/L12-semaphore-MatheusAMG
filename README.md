@@ -40,6 +40,8 @@ Caso a entrada `pedestrian` seja acionada enquanto o semáforo está **verde**, 
 
 A máquina de estados do semáforo pode ser representada pelo diagrama abaixo:  
 
+> Se não conseguir ver o diagrama, baixe a extensão do vscode "Markdown Preview Mermaid Support"
+
 ```mermaid
 stateDiagram-v2
     [*] --> Vermelho
